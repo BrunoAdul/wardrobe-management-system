@@ -10,7 +10,7 @@ The **Wardrobe Management System** is a web application built using Laravel 11 a
 - User authentication with Laravel Sanctum
 - Intuitive dashboard for wardrobe management
 - Categorization of clothing items
-- Outfit planning and recommendations
+- Outfit planning and recommendations(coming soon)
 - Responsive UI built with Vue 3
 - RESTful API for seamless frontend-backend integration
 
